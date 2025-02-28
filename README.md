@@ -1,2 +1,2 @@
-# TRISHUL-
+# TRISHUL-🔱
 MATS Application Research Project
