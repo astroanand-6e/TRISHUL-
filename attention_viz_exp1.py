@@ -15,8 +15,8 @@ plt.rcParams['font.family'] = ['DejaVu Sans', 'Noto Sans Devanagari']
 
 # Try to find and register Noto Sans Devanagari font
 font_paths = [
-    '/fonts/NotoSansDevanagari-Regular.ttf',
-    '/fonts/NotoSansDevanagari-Bold.ttf'
+    'fonts/NotoSansDevanagari-Regular.ttf',
+    'fonts/NotoSansDevanagari-Bold.ttf'
 ]
 
 devanagari_font = None
